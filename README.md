@@ -116,8 +116,6 @@ A result like this is a first warning, not proof that a password spraying attack
 - Passwords are typed at run time and never stored in files.
 - ISO files and virtual disks are excluded by `.gitignore`.
 
-## Credits
-
 
 ## License
 MIT, see `LICENSE`.
