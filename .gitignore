@@ -1,0 +1,23 @@
+# Virtual machines and installation media
+*.iso
+*.vdi
+*.vhd
+*.vhdx
+*.vmdk
+*.ova
+*.ovf
+*.vbox
+Logs/
+
+# Secrets and exports
+*.pfx
+*.key
+*.pem
+.env
+secrets*
+failed_logons.csv
+!python/sample_failed_logons.csv
+
+# Misc
+__pycache__/
+*.pyc
